@@ -29,7 +29,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 
-# Software
+# Software links
 
 iTerm2
 https://iterm2.com/
