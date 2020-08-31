@@ -16,6 +16,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [Rebase vs Merge](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 [Rebase workflow](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+[Pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
 ### Gitflow
 
