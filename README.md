@@ -17,7 +17,7 @@ https://www.youtube.com/c/Academind
 
 # Git
 
-![YouTube](https://www.youtube.com/favicon.ico) [Git crashcourse](https://www.youtube.com/watch?v=_OZVJpLHUaI)
+[![YouTube](https://www.youtube.com/favicon.ico) Git crashcourse](https://www.youtube.com/watch?v=_OZVJpLHUaI)
 
 [Rebase vs Merge](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 
