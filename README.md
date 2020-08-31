@@ -31,6 +31,9 @@ https://www.youtube.com/c/Academind
 
 
 
+# Authentication 
+
+[OAuth and OpenID in plain english](https://www.youtube.com/watch?v=ubCNZRNjhyo)
 
 
 # Software links
