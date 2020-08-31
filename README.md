@@ -19,9 +19,9 @@ https://www.youtube.com/c/Academind
 
 [![ytlogo] Git crashcourse](https://www.youtube.com/watch?v=_OZVJpLHUaI)
 
-[Rebase vs Merge](https://www.youtube.com/watch?v=CRlGDDprdOQ)
+[![ytlogo] Rebase vs Merge](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 
-[Rebase workflow](https://www.youtube.com/watch?v=f1wnYdLEpgI)
+[![ytlogo] Rebase workflow](https://www.youtube.com/watch?v=f1wnYdLEpgI)
 
 [Pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
@@ -36,7 +36,7 @@ https://www.youtube.com/c/Academind
 
 ## AWS
 
-[Intro to AWS](https://www.youtube.com/watch?v=ubCNZRNjhyo)
+[![ytlogo] Intro to AWS](https://www.youtube.com/watch?v=ubCNZRNjhyo)
 
 
 
@@ -45,7 +45,7 @@ https://www.youtube.com/c/Academind
 
 # Authentication 
 
-[OAuth and OpenID in plain english](https://www.youtube.com/watch?v=ubCNZRNjhyo)
+[![ytlogo] OAuth and OpenID in plain english](https://www.youtube.com/watch?v=ubCNZRNjhyo)
 
 
 # Software links
@@ -73,7 +73,5 @@ https://www.google.com/chrome/
 https://www.microsoft.com/en-us/edge
 
 
-Reference-style: 
-![ytlogo]
 
 [ytlogo]: https://www.youtube.com/favicon.ico "YouTube logo"
