@@ -17,7 +17,7 @@ https://www.youtube.com/c/Academind
 
 # Git
 
-[![YouTube](https://www.youtube.com/favicon.ico) Git crashcourse](https://www.youtube.com/watch?v=_OZVJpLHUaI)
+[![ytlogo] Git crashcourse](https://www.youtube.com/watch?v=_OZVJpLHUaI)
 
 [Rebase vs Merge](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 
@@ -71,3 +71,9 @@ https://www.mozilla.org/
 https://www.google.com/chrome/
 
 https://www.microsoft.com/en-us/edge
+
+
+Reference-style: 
+![ytlogo]
+
+[ytlogo]: https://www.youtube.com/favicon.ico "YouTube logo"
