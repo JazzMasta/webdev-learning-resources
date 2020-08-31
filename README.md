@@ -17,6 +17,8 @@ https://www.youtube.com/c/Academind
 
 # Git
 
+[Git crashcourse](https://www.youtube.com/watch?v=_OZVJpLHUaI)
+
 [Rebase vs Merge](https://www.youtube.com/watch?v=CRlGDDprdOQ)
 
 [Rebase workflow](https://www.youtube.com/watch?v=f1wnYdLEpgI)
@@ -28,6 +30,16 @@ https://www.youtube.com/c/Academind
 [Atlassian Gitflow tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+
+# Cloud services
+
+## AWS
+
+[Intro to AWS](https://www.youtube.com/watch?v=ubCNZRNjhyo)
+
+
+
 
 
 
