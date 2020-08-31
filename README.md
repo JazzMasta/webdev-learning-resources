@@ -21,3 +21,24 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [Atlassian Gitflow tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+
+# Software
+
+
+iTerm2
+https://iterm2.com/
+
+Git
+https://sourceforge.net/projects/git-osx-installer/files/
+
+Visual Studio Code
+https://code.visualstudio.com/
+
+SourceTree
+https://www.sourcetreeapp.com/
+
+Browsers
+https://www.mozilla.org/
+https://www.google.com/chrome/
+https://www.microsoft.com/en-us/edge
