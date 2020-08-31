@@ -23,8 +23,10 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 
-# Software
 
+
+
+# Software
 
 iTerm2
 https://iterm2.com/
@@ -37,6 +39,9 @@ https://code.visualstudio.com/
 
 SourceTree
 https://www.sourcetreeapp.com/
+
+iTerm2
+[iTerm2 - iTerm2 is a replacement for Terminal](https://iterm2.com/)
 
 Browsers
 https://www.mozilla.org/
