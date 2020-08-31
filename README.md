@@ -11,7 +11,9 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
+### YouTube Channels
 
+https://www.youtube.com/c/Academind
 
 # Git
 
