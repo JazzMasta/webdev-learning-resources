@@ -4,6 +4,7 @@
 
 ### Markdown
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  "Markdown-Cheatsheet")
 
 ### IDEs
@@ -23,6 +24,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ### Gitflow
 
 [Atlassian Gitflow tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 
@@ -46,7 +48,9 @@ https://www.sourcetreeapp.com/
 iTerm2
 [iTerm2 - iTerm2 is a replacement for Terminal](https://iterm2.com/)
 
-Browsers
+#### Browsers
 https://www.mozilla.org/
+
 https://www.google.com/chrome/
+
 https://www.microsoft.com/en-us/edge
