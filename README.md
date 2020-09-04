@@ -25,6 +25,8 @@ https://www.youtube.com/c/Academind
 
 [Pull request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
+[![ytlogo] Stash](https://www.youtube.com/watch?v=DeU6opFU_zw)
+
 ### Gitflow
 
 [Atlassian Gitflow tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
@@ -32,15 +34,29 @@ https://www.youtube.com/c/Academind
 [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
 
+# React
+
+### Hooks
+https://www.youtube.com/watch?v=-MlNBTSg_Ww
+
+### useContext
+https://www.youtube.com/watch?v=R_7XRX7nLsw
+
+
+
 # Cloud services
+
+## Firebase
+
+[Firebase web app setup](https://firebase.google.com/docs/web/setup)
+
+[Firebase Authentication](https://firebase.google.com/docs/auth)
+
+[Firebase Database](https://firebase.google.com/docs/database/web/start)
 
 ## AWS
 
 [![ytlogo] Intro to AWS](https://www.youtube.com/watch?v=ubCNZRNjhyo)
-
-
-
-
 
 
 # Authentication 
