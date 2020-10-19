@@ -38,14 +38,23 @@ https://www.youtube.com/c/Academind
 
 ## React
 
-### Hooks
+#### Hooks
 https://www.youtube.com/watch?v=-MlNBTSg_Ww
 
-### useContext
+#### useContext
 https://www.youtube.com/watch?v=R_7XRX7nLsw
 
 ## Storybook
 https://www.youtube.com/watch?v=p2sZKAPOQXs&ab_channel=Headway
+
+
+# Frontend and SPA hosting (free)
+
+https://vercel.com/
+
+https://surge.sh/
+
+
 
 
 # Cloud services
