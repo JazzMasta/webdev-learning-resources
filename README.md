@@ -36,6 +36,10 @@ https://www.youtube.com/c/Academind
 
 # Frontend
 
+## JavaScript
+
+https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c
+
 ## React
 
 #### Hooks
@@ -50,13 +54,17 @@ https://www.youtube.com/watch?v=p2sZKAPOQXs&ab_channel=Headway
 ## Bundlers
 
 https://rollupjs.org/guide/en/
+
 https://webpack.js.org/
+
 https://parceljs.org/
+
 http://browserify.org/
 
 ## Frontend and SPA hosting (free)
 
 https://vercel.com/
+
 https://surge.sh/
 
 
