@@ -47,11 +47,16 @@ https://www.youtube.com/watch?v=R_7XRX7nLsw
 ## Storybook
 https://www.youtube.com/watch?v=p2sZKAPOQXs&ab_channel=Headway
 
+## Bundlers
 
-# Frontend and SPA hosting (free)
+https://rollupjs.org/guide/en/
+https://webpack.js.org/
+https://parceljs.org/
+http://browserify.org/
+
+## Frontend and SPA hosting (free)
 
 https://vercel.com/
-
 https://surge.sh/
 
 
