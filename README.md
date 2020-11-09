@@ -1,4 +1,6 @@
-# webdev-learning-resources
+# Learning resources for interns
+This is a collection of useful links I share with my interns and junior web developers.
+
 
 # General
 
